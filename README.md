@@ -7,3 +7,5 @@ It allows you to turn any image (for now only png is supported) into ascii art.
 
 Make sure you have `streamlit` installed, and use the command `streamlit run asciiart.py`.
 This should open a tab in your browser, with a button to upload a picture and a few options.
+Then, you just have to click the `Generate` button to transform the image into ascii art,
+that you can download.
